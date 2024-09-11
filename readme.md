@@ -1,3 +1,5 @@
+# Metaphor Detection using BERT models
+
 strategy - used contextulaized embeddings (from pretrained deberta model) with interaction between metaphor word and sentence from start
 
 why deberta - deberta because unlike other bert based encoder models, deberta uses position embeddings in self attention, which has shown to give better results in NLU and NLP tasks
